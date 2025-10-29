@@ -1,6 +1,7 @@
 # distribution_system_task4
 distribution_system_task4
 # Simple Chatroom using Go RPC
+https://drive.google.com/file/d/1zsEDXJ3JPEt2PgdAGLDz-b1bcrHhSHZV/view?usp=sharing
 
 ## Description
 This project is a simple chatroom built with **Go** using **RPC (Remote Procedure Call)**.  
@@ -25,3 +26,5 @@ go run server.go
 ```bash
 go run client.go
 ```
+## video
+https://drive.google.com/file/d/1zsEDXJ3JPEt2PgdAGLDz-b1bcrHhSHZV/view?usp=sharing
